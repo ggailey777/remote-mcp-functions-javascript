@@ -1,0 +1,17 @@
+*.js.map
+.git*
+.vscode
+__azurite_db*__.json
+__blobstorage__
+__queuestorage__
+local.settings.json
+test
+node_modules
+src/app/node_modules
+src/app/src
+src/app/.gitignore
+src/app/package.json
+src/app/package-lock.json
+src/app/tsconfig.json
+src/app/vite.config.ts
+src/app/host.json
